@@ -1,0 +1,11 @@
+{
+  "name": "n-edit-editor",
+  "version": "1.0.0",
+  "description": "N-Edit Workspace Editor",
+  "scripts": {
+    "dev": "live-server --open=main.html --port=5173"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
